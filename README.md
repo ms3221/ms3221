@@ -5,9 +5,9 @@
 ### Hi there 👋
 ### I'm studying blockchain.🧠💡🧑🏻‍💻
 
+📝 Stugy Logs : Blog
 📨 Email : hyeongjun3221@gmail.com
-
-
+<br>
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
 
