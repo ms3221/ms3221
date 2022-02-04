@@ -5,6 +5,8 @@
 ### Hi there 👋
 ### I'm studying blockchain.🧠💡🧑🏻‍💻
 
+📨 Email : hyeongjun3221@gmail.com
+
 
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
