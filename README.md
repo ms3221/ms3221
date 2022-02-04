@@ -5,7 +5,7 @@
 ### Hi there 👋
 ### I'm studying blockchain.🧠💡🧑🏻‍💻
 
-📝 Stugy Logs : Blog
+📝 Stugy Logs : <a href="https://lazy-crew.tistory.com/">Blog</a>
 <br>
 📨 Email : hyeongjun3221@gmail.com
 <hr>
